@@ -1,0 +1,13 @@
+.center-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.color-secondary {
+  color: #bbb8b8;
+}
+.inline-block {
+  display: inline-block;
+  vertical-align: middle;
+}

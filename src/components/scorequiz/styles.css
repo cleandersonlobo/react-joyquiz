@@ -1,0 +1,33 @@
+.container-results {
+  padding: 30px ;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.label-text {
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 25px;
+  padding-left: 5px;
+}
+.card-label {
+  vertical-align: middle;
+  width: 130px;
+  height: 130px;
+  line-height: 128px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 58px;
+  font-weight: 700;
+  margin: 5px;  
+}
+
+.hits {
+  color: #61a02d;
+  border: 1px solid #61a02d;
+}
+
+.wrong {
+  border: 1px solid #e73a3d;
+  color: #e73a3d;
+}

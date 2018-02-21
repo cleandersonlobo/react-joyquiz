@@ -1,0 +1,14 @@
+.header-background {
+  background: #5B86E5;
+  color: white;
+  font-weight: bold;
+}
+.body-title {
+  font-weight: 500;
+}
+.header-background .close {
+  color: white !important;
+}
+.error-msg {
+  color: #ac0d0d;
+}

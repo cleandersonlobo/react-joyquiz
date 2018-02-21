@@ -1,0 +1,43 @@
+.icon {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.text-answer {
+  font-size: 1.3em;
+}
+
+.row-question-item {
+  display: flex;
+  align-items: center;
+}
+
+.btn-delete {
+  color: #4a4a4a;
+  display: none;
+  
+}
+.list-questions:hover .btn-delete {
+    display: inline-block;
+    transition: all .3s;
+}
+.btn-delete:hover {
+  opacity: 1;
+  color: #e73a3d;
+  outline: 0!important;
+  width: 20px;
+  height: 20px;
+}
+
+.container-answers {
+  width: 90%;
+  margin: 0 auto;
+}
+.btn-showModal {
+  margin: 0;
+  text-decoration:transparent;
+  color: #4a4a4a;
+}
+.btn-showModal:visited, .btn-showModal:hover  {
+  color: #4a4a4a;
+}

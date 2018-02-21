@@ -1,0 +1,21 @@
+.btn-back {
+  font-size: 26px;
+  text-decoration: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.input {
+  font-size: 25px;
+  font-weight: 500;
+  background: 0 0;
+  border: 0 !important;
+  border-bottom: 1px dashed;
+  margin-bottom: -1px !important;
+}
+.input:focus {
+  outline: 0!important;
+}
+
+.row-quiz {
+  margin-top: 10px;
+}

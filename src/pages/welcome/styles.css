@@ -1,0 +1,26 @@
+.main {
+  background: #36D1DC; 
+  background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC); 
+  background: linear-gradient(to right, #5B86E5, #36D1DC);
+  height:100vh;
+}
+.input {
+  font-size: 25px !important;
+}
+.row-title {
+  padding: 60px;
+}
+.color-text {
+  color: #ffffff;
+}
+.title-text {
+  font-size: 50px;
+}
+.row-button {
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto 10px;
+}
+.button{
+  padding: 20px;
+}

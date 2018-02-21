@@ -1,0 +1,42 @@
+{
+  "name": "react-joyquiz",
+  "version": "1.0.1",
+  "homepage": "https://cleandersonlobo.github.io/react-joyquiz/",
+  "description": "Quiz application developed in React",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleandersonlobo/react-joyquiz.git"
+  },
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^1.1.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-input-autosize": "^2.2.1",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-toastify": "^3.3.4",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-plugin-module-resolver": "^3.1.0",
+    "eslint": "^4.18.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-import-resolver-babel-module": "^4.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1"
+  }
+}
