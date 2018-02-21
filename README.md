@@ -1,6 +1,6 @@
 # JoyQuiz
 
-Quiz application with React, Redux and other tools.
+Quiz application with React, Redux and other tools. [View Demo](http://joyquiz.herokuapp.com/)
 
 ![Welcome](screenshots/photo1.png)
 
